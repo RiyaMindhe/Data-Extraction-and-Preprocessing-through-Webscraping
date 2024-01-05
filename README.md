@@ -12,13 +12,13 @@ Regular expressions (regex) are powerful tools for text pattern matching and ext
 Text Cleaning  
 Regex can be used to clean up text data, removing unwanted characters, URLs, tags, or any other non-essential elements.
 
-Phrase Extraction
+Phrase Extraction  
 Regex can be used to extract specific phrases or patterns from the text, such as email addresses, phone numbers, or any domain-specific entities.
 
-Text Replacement
+Text Replacement  
 In tasks where certain patterns within the text need to be substituted or normalized, regex provides a robust way to achieve this.
 
-Tokenization
+Tokenization  
 Regex can also be used in defining patterns to split text into words and tokens.
 
 Step 3:
