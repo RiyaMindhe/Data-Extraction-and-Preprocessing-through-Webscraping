@@ -10,7 +10,6 @@ Understanding Regular Expression
 Regular expressions (regex) are powerful tools for text pattern matching and extraction. In the domain of NLP, they play a crucial role in various pre-processing and information retrieval tasks. Here is a brief summary of what they can do:
 
 Text Cleaning  
-
 Regex can be used to clean up text data, removing unwanted characters, URLs, tags, or any other non-essential elements.
 
 Phrase Extraction
