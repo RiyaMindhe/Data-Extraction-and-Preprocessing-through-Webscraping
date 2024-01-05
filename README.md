@@ -29,3 +29,7 @@ Working with BeautifulSoup allows developers to focus on the data they need rath
 Our goal is to retrieve all the quotes from a designated quotes website. To achieve this, we require the tags encapsulating the text and their respective class names.
 
 You can source these details directly from the raw HTML tags via the developer console, or by visualizing the structured HTML in the Jupyter notebook using soup.prettify().
+
+
+![image](https://github.com/RiyaMindhe/Data-Extraction-and-Preprocessing-through-Webscraping/assets/84629433/91cf2dfd-e09a-4f83-8d6f-2039e6cf7f1d)
+
